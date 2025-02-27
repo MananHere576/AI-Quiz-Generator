@@ -1,0 +1,7 @@
+python-dotenv
+groq
+requests
+Flask_cors
+Flask
+langchain-groq
+streamlit
