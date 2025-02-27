@@ -1,5 +1,4 @@
 # AI-Quiz-Generator
-# AI Quiz Generator
 
 AI-powered quiz generator that creates multiple-choice questions (MCQs) from given text using the Groq AI model. Built with Streamlit for an interactive UI.
 
