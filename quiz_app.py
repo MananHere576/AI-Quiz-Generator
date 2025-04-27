@@ -38,7 +38,7 @@ def fetch_questions(text_content, quiz_level, num_questions):
 
     # Make API request
     response = groq_client.chat.completions.create(
-        model="mixtral-8x7b-32768",
+        model="llama3-8b-8192",
         messages=[{"role": "user", "content": PROMPT_TEMPLATE}],
         temperature=0.3,
         max_tokens=1000
